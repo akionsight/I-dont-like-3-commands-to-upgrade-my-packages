@@ -12,4 +12,6 @@ echo -e "\nPackages have been upgraded, cleaning used package lists\n"
 
 apt-get clean
 
-echo -e "Done"
+echo -e "Done\n"
+
+
