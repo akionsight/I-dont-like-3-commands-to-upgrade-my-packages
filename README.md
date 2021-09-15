@@ -21,3 +21,7 @@ btw you can check out that gist here [here](https://gist.github.com/akionsight/5
 
 the powershell script which you run is merely a wrapper that bash script that runs by double clicking
 
+## Update
+Ive now started using a linux desktop, and no longer use WSL
+I have found that this script works flawlessly there too, PowerShell Can be installed but its not required, just get the bash script
+Although, I will still try to maintain the PowerShell script 😊
