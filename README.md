@@ -3,9 +3,9 @@ A Powershell + Bash script to upgrade your apt packages in WSL with a double cli
 
 ## Usage
 
-1. Download the repo from the releases page 
+1. Download the latest release from the releases page
 2. Navigate inside the `update_packages` directory
-3. double click the `update_packages.ps1` powershell script 
+3. double click the `update_packages.ps1` powershell script
 4. Now Windows will stop you from running this program and tell its a virus, just ignore those warnings, this isnt a virus, and if you dont believe me, hey the code is open-source and right here in this repo, go read it for yourself, contribute if you want to 😊
 
 ## Important note
@@ -25,3 +25,5 @@ the powershell script which you run is merely a wrapper that bash script that ru
 Ive now started using a linux desktop (PopOS! to be precise), and no longer use WSL
 I have found that this script works flawlessly there too, PowerShell Can be installed but its not required, just get the bash script
 Although, I will still try to maintain the PowerShell script 😊
+
+Also Works in ZSH, tested it
