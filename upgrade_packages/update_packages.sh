@@ -8,6 +8,9 @@ echo -e "\nupgrading packages\n"
 
 apt-get upgrade
 
+echo -e "\nUpgrading Flatpaks \n"
+
+flatpak upgrade
 echo -e "\nPackages have been upgraded, cleaning used package lists\n"
 
 apt-get clean
