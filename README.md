@@ -27,3 +27,6 @@ I have found that this script works flawlessly there too, PowerShell Can be inst
 Although, I will still try to maintain the PowerShell script 😊
 
 Also Works in ZSH, tested it
+
+## Update 2 
+I think its now used enough and stable enough for server use
